@@ -1,4 +1,4 @@
-# Analysis: Do Genres Impact Movies Revenue?
+# Analysis: Do Genres Impact Movies Revenue? 
 
 Sure, movies are a form of art. But creating a movie requires many resources and studios are, after all, businesses.
 
